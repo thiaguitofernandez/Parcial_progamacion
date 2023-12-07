@@ -1,0 +1,24 @@
+{
+    "puntajes": [
+        {
+            "jugador": "Thi",
+            "puntuacion": 1000
+        },
+        {
+            "jugador": "lol",
+            "puntuacion": 2000
+        },
+        {
+            "jugador": "thi",
+            "puntuacion": 200
+        },
+        {
+            "jugador": "lol",
+            "puntuacion": 500
+        },
+        {
+            "jugador": "thi",
+            "puntuacion": 600
+        }
+    ]
+}
